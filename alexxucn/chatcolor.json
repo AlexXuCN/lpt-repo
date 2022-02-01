@@ -1,0 +1,22 @@
+{
+    "id": "1",
+    "name": "chatcolor",
+    "type": "lxl",
+    "channel": [
+        "stable","beta","dev"
+    ],
+    "channels": {
+        "stable": {
+            "version": "10001",
+            "url": ""
+        },
+        "beta": {
+            "version": "10001",
+            "url": ""
+        },
+        "dev": {
+            "version": "10001",
+            "url": ""
+        }
+    }
+}

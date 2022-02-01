@@ -1,0 +1,22 @@
+{
+    "id": "1",
+    "name": "lpt",
+    "type": "lxl",
+    "channel": [
+        "stable","beta","dev"
+    ],
+    "channels": {
+        "stable": {
+            "version": "10000",
+            "url": ""
+        },
+        "beta": {
+            "version": "10000",
+            "url": ""
+        },
+        "dev": {
+            "version": "10000",
+            "url": ""
+        }
+    }
+}

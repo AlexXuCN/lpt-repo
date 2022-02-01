@@ -1,0 +1,19 @@
+{
+    "id": [
+        {
+            "id": "1",
+            "name":"lpt",
+            "type":"lxl",
+            "location":"https://github.com/AlexXuCN/lpt-repo/raw/master/alexxucn/lpt.json",
+            "version":"10000"
+        },
+        {
+            "id": "2",
+            "name":"chatcolor",
+            "type":"lxl",
+            "location":"https://github.com/AlexXuCN/lpt-repo/raw/master/alexxucn/chatcolor.json",
+            "version": "10001"
+        }
+    ]
+    
+} 
