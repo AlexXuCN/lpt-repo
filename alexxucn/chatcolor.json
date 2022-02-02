@@ -2,21 +2,16 @@
     "id": "1",
     "name": "chatcolor",
     "type": "lxl",
+    "description": "聊天指定词变色插件",
+    "url": "https://www.minebbs.com/resources/chatcolor.3507/",
     "channel": [
-        "stable","beta","dev"
+        "dev"
     ],
     "channels": {
-        "stable": {
-            "version": "10001",
-            "url": ""
-        },
-        "beta": {
-            "version": "10001",
-            "url": ""
-        },
         "dev": {
             "version": "10001",
-            "url": ""
+            "filename": "chatcolor.js",
+            "url": "https://github.com/AlexXuCN/mcplugins/raw/master/chatcolor/chatcolor.js"
         }
     }
 }
